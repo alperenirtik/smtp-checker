@@ -6,13 +6,13 @@ SMTP Mail Checker, e-posta sunucularınızın bağlantı durumunu hızlı ve gü
 
 ## Ekran Görüntüleri
 
-![(image1.png)
+![](image1.png)
 
-![(image2.png)
+![](image2.png)
 
-!(image3.png)
+![](image3.png)
 
-!(image4.png)
+![](image4.png)
 
 Bu araç özellikle:
 - Yeni bir e-posta sunucusu kurulumunda
