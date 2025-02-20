@@ -2,6 +2,18 @@
 
 SMTP Mail Checker, e-posta sunucularınızın bağlantı durumunu hızlı ve güvenli bir şekilde test etmenizi sağlayan web tabanlı bir araçtır. Bu uygulama ile SMTP sunucu ayarlarınızı doğrulayabilir, bağlantı sorunlarını tespit edebilir ve test e-postaları göndererek sistemin düzgün çalıştığından emin olabilirsiniz.
 
+🔗 **Demo:** [SMTP Mail Checker](https://proje.alperenirtik.com/proje/smtp-checker/)
+
+## Ekran Görüntüleri
+
+![(image1.png)
+
+![(image2.png)
+
+!(image3.png)
+
+!(image4.png)
+
 Bu araç özellikle:
 - Yeni bir e-posta sunucusu kurulumunda
 - Mevcut SMTP ayarlarının kontrolünde
